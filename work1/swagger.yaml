@@ -1,0 +1,95 @@
+swagger: "2.0"
+info:
+  description: "test work"
+  version: "1.0.0"
+  title: "Test Work"
+  termsOfService: "http://swagger.io/terms/"
+  contact:
+    email: "email@mail.mail"
+  license:
+    name: "name"
+    url: "http://url.url"
+host: "localhost"
+basePath: "/"
+tags:
+- name: "user"
+  description: "Operations about user"
+
+schemes:
+- "http"
+paths:
+  /login:
+    post:
+      tags:
+      - "user"
+      summary: "Logs user into the system"
+      description: ""
+      operationId: "loginUser"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "email"
+        in: "query"
+        description: "The email name for login"
+        required: true
+        type: "string"
+      - name: "password"
+        in: "query"
+        description: "The password for login in clear text"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "successful operation"
+          schema:
+            type: "string"
+        "400":
+          description: "unsuccessful operation"
+          schema:
+            type: "string"  
+
+  /register:
+    post:
+      tags:
+      - "user"
+      summary: "Register user"
+      description: ""
+      operationId: "registerUser"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "email"
+        in: "query"
+        description: "The email name for login"
+        required: true
+        type: "string"
+      - name: "password"
+        in: "query"
+        description: "The password for login in clear text"
+        required: true
+        type: "string"
+      responses:
+        "200":
+          description: "successful operation"
+          schema:
+            type: "string"
+
+  /auth{token}:
+    get:
+      tags:
+      - "user"
+      summary: "Getting a sign that the user is authorized"
+      description: ""
+      operationId: ""
+      produces:
+      - "application/json"
+      parameters:
+      - name: "token"
+        in: "path"
+        description: "User jwt"
+        required: true
+        type: "string"
+      responses:
+        default:
+          description: "successful operation"
+  

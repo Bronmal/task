@@ -1,0 +1,1402 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/23px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Akrotiri and Dhekelia",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png"
+  },
+  {
+    "code": "AX",
+    "name": "Åland Islands",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/23px-Flag_of_%C3%85land.svg.png"
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png"
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png"
+  },
+  {
+    "code": "AS",
+    "name": "American Samoa",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/23px-Flag_of_American_Samoa.svg.png"
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/22px-Flag_of_Andorra.svg.png"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png"
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/23px-Flag_of_Anguilla.svg.png"
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/True_South_Antarctic_Flag.svg/23px-True_South_Antarctic_Flag.svg.png"
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png"
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/23px-Flag_of_Aruba.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Ashmore and Cartier Islands",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png"
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png"
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png"
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/23px-Flag_of_the_Bahamas.svg.png"
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png"
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png"
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png"
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/23px-Flag_of_Belize.svg.png"
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/23px-Flag_of_Benin.svg.png"
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/23px-Flag_of_Bermuda.svg.png"
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/23px-Flag_of_Bhutan.svg.png"
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia (Plurinational State of)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/22px-Bandera_de_Bolivia_%28Estado%29.svg.png"
+  },
+  {
+    "code": "BQ",
+    "name": "Bonaire",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/23px-Flag_of_Bonaire.svg.png"
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png"
+  },
+  {
+    "code": "BV",
+    "name": "Bouvet Island",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png"
+  },
+  {
+    "code": "IO",
+    "name": "British Indian Ocean Territory (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/23px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png"
+  },
+  {
+    "code": "",
+    "name": "British Virgin Islands",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/23px-Flag_of_the_British_Virgin_Islands.svg.png"
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/23px-Flag_of_Brunei.svg.png"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png"
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Burma",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png"
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/23px-Flag_of_Burundi.svg.png"
+  },
+  {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png"
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png"
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Cape Verde",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Caribbean Netherlands",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png"
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/23px-Flag_of_the_Cayman_Islands.svg.png"
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/23px-Flag_of_the_Central_African_Republic.svg.png"
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/23px-Flag_of_Chad.svg.png"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+  },
+  {
+    "code": "",
+    "name": "China, The Republic of",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png"
+  },
+  {
+    "code": "CX",
+    "name": "Christmas Island",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/23px-Flag_of_Christmas_Island.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Clipperton Island",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "code": "CC",
+    "name": "Cocos (Keeling) Islands (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/23px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png"
+  },
+  {
+    "code": "KM",
+    "name": "Comoros (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/23px-Flag_of_the_Comoros.svg.png"
+  },
+  {
+    "code": "CD",
+    "name": "Congo (the Democratic Republic of the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
+  },
+  {
+    "code": "CG",
+    "name": "Congo (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/23px-Flag_of_the_Republic_of_the_Congo.svg.png"
+  },
+  {
+    "code": "CK",
+    "name": "Cook Islands (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/23px-Flag_of_the_Cook_Islands.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Coral Sea Islands",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/23px-Flag_of_Costa_Rica_%28state%29.svg.png"
+  },
+  {
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png"
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/23px-Flag_of_Cura%C3%A7ao.svg.png"
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png"
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Democratic People's Republic of Korea",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Democratic Republic of the Congo",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png"
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/23px-Flag_of_Djibouti.svg.png"
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/23px-Flag_of_Dominica.svg.png"
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png"
+  },
+  {
+    "code": "",
+    "name": "East Timor",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/23px-Flag_of_East_Timor.svg.png"
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png"
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png"
+  },
+  {
+    "code": "",
+    "name": "England",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png"
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/23px-Flag_of_Eritrea.svg.png"
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png"
+  },
+  {
+    "code": "SZ",
+    "name": "Eswatini",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/23px-Flag_of_Eswatini.svg.png"
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png"
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands (the) [Malvinas]",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/23px-Flag_of_the_Falkland_Islands.svg.png"
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/21px-Flag_of_the_Faroe_Islands.svg.png"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png"
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "code": "GF",
+    "name": "French Guiana",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_French_Guiana.svg/23px-Flag_of_French_Guiana.svg.png"
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/23px-Flag_of_French_Polynesia.svg.png"
+  },
+  {
+    "code": "TF",
+    "name": "French Southern Territories (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg/23px-Flag_of_the_French_Southern_and_Antarctic_Lands.svg.png"
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png"
+  },
+  {
+    "code": "GM",
+    "name": "Gambia (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png"
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png"
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/23px-Flag_of_Gibraltar.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Great Britain",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png"
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_Greenland.svg/23px-Flag_of_Greenland.svg.png"
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png"
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Unofficial_flag_of_Guadeloupe_%28local%29.svg/23px-Unofficial_flag_of_Guadeloupe_%28local%29.svg.png"
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/23px-Flag_of_Guam.svg.png"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png"
+  },
+  {
+    "code": "GG",
+    "name": "Guernsey",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/23px-Flag_of_Guernsey.svg.png"
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png"
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/23px-Flag_of_Guinea-Bissau.svg.png"
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Hawaiian Islands",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "code": "HM",
+    "name": "Heard Island and McDonald Islands",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png"
+  },
+  {
+    "code": "VA",
+    "name": "Holy See (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/15px-Flag_of_the_Vatican_City.svg.png"
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png"
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/23px-Flag_of_Hong_Kong.svg.png"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png"
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png"
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png"
+  },
+  {
+    "code": "IR",
+    "name": "Iran (Islamic Republic of)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png"
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png"
+  },
+  {
+    "code": "IM",
+    "name": "Isle of Man",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/23px-Flag_of_the_Isle_of_Man.svg.png"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Ivory Coast",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Jan Mayen",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png"
+  },
+  {
+    "code": "JE",
+    "name": "Jersey",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/23px-Flag_of_Jersey.svg.png"
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/23px-Flag_of_Jordan.svg.png"
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png"
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png"
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/23px-Flag_of_Kiribati.svg.png"
+  },
+  {
+    "code": "KP",
+    "name": "Korea (the Democratic People's Republic of)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png"
+  },
+  {
+    "code": "KR",
+    "name": "Korea (the Republic of)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png"
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/23px-Flag_of_Kuwait.svg.png"
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/23px-Flag_of_Kyrgyzstan.svg.png"
+  },
+  {
+    "code": "LA",
+    "name": "Lao People's Democratic Republic (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/23px-Flag_of_Laos.svg.png"
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png"
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png"
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png"
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/23px-Flag_of_Liberia.svg.png"
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/23px-Flag_of_Libya.svg.png"
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/23px-Flag_of_Liechtenstein.svg.png"
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png"
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png"
+  },
+  {
+    "code": "MO",
+    "name": "Macao",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/23px-Flag_of_Macau.svg.png"
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/23px-Flag_of_North_Macedonia.svg.png"
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png"
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png"
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/23px-Flag_of_Maldives.svg.png"
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png"
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png"
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/23px-Flag_of_the_Marshall_Islands.svg.png"
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_the_Front_National_de_Lib%C3%A9ration_de_la_Martinique.svg/23px-Flag_of_the_Front_National_de_Lib%C3%A9ration_de_la_Martinique.svg.png"
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/23px-Flag_of_Mauritania.svg.png"
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/23px-Flag_of_Mauritius.svg.png"
+  },
+  {
+    "code": "YT",
+    "name": "Mayotte",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Mayotte_%28Local%29.svg/23px-Flag_of_Mayotte_%28Local%29.svg.png"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png"
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia (Federated States of)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/23px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
+  },
+  {
+    "code": "MD",
+    "name": "Moldova (the Republic of)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png"
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png"
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/23px-Flag_of_Mongolia.svg.png"
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png"
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/23px-Flag_of_Montserrat.svg.png"
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png"
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png"
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png"
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png"
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/23px-Flag_of_Nauru.svg.png"
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png"
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_FLNKS.svg/23px-Flag_of_FLNKS.svg.png"
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png"
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png"
+  },
+  {
+    "code": "NE",
+    "name": "Niger (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/18px-Flag_of_Niger.svg.png"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png"
+  },
+  {
+    "code": "NU",
+    "name": "Niue",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/23px-Flag_of_Niue.svg.png"
+  },
+  {
+    "code": "NF",
+    "name": "Norfolk Island",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Norfolk_Island.svg/23px-Flag_of_Norfolk_Island.svg.png"
+  },
+  {
+    "code": "",
+    "name": "North Korea",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Northern Ireland",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png"
+  },
+  {
+    "code": "MP",
+    "name": "Northern Mariana Islands (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/23px-Flag_of_the_Northern_Mariana_Islands.svg.png"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png"
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/23px-Flag_of_Oman.svg.png"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png"
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/23px-Flag_of_Palau.svg.png"
+  },
+  {
+    "code": "PS",
+    "name": "Palestine, State of",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/23px-Flag_of_Palestine.svg.png"
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png"
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png"
+  },
+  {
+    "code": "",
+    "name": "People's Republic of China",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png"
+  },
+  {
+    "code": "PH",
+    "name": "Philippines (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png"
+  },
+  {
+    "code": "PN",
+    "name": "Pitcairn",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/23px-Flag_of_the_Pitcairn_Islands.svg.png"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png"
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/23px-Flag_of_Puerto_Rico.svg.png"
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Republic of China",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Republic of Korea",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Republic of the Congo",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/23px-Flag_of_the_Republic_of_the_Congo.svg.png"
+  },
+  {
+    "code": "RE",
+    "name": "Réunion",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Proposed_flag_of_R%C3%A9union_%28VAR%29.svg/23px-Proposed_flag_of_R%C3%A9union_%28VAR%29.svg.png"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png"
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png"
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/23px-Flag_of_Rwanda.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Saba",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Saba.svg/23px-Flag_of_Saba.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Sahrawi Arab Democratic Republic",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/23px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
+  },
+  {
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Saint_Barth%C3%A9lemy_%28Local%29.svg/23px-Flag_of_Saint_Barth%C3%A9lemy_%28Local%29.svg.png"
+  },
+  {
+    "code": "SH",
+    "name": "Saint Helena",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/23px-Flag_of_Saint_Helena.svg.png"
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png"
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/23px-Flag_of_Saint_Lucia.svg.png"
+  },
+  {
+    "code": "MF",
+    "name": "Saint Martin (French part)",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg/23px-Flag_of_Saint-Pierre_and_Miquelon.svg.png"
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/23px-Flag_of_Samoa.svg.png"
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/20px-Flag_of_San_Marino.svg.png"
+  },
+  {
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/23px-Flag_of_Sao_Tome_and_Principe.svg.png"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Scotland",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png"
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png"
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/23px-Flag_of_Seychelles.svg.png"
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Sint Eustatius",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Sint_Eustatius.svg/23px-Flag_of_Sint_Eustatius.svg.png"
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten (Dutch part)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Sint_Maarten.svg/23px-Flag_of_Sint_Maarten.svg.png"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png"
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/23px-Flag_of_the_Solomon_Islands.svg.png"
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/23px-Flag_of_Somalia.svg.png"
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png"
+  },
+  {
+    "code": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/23px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png"
+  },
+  {
+    "code": "",
+    "name": "South Korea",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png"
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/23px-Flag_of_South_Sudan.svg.png"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png"
+  },
+  {
+    "code": "SD",
+    "name": "Sudan (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/23px-Flag_of_Sudan.svg.png"
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png"
+  },
+  {
+    "code": "SJ",
+    "name": "Svalbard",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png"
+  },
+  {
+    "code": "SY",
+    "name": "Syrian Arab Republic (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png"
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan (Province of China)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png"
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/23px-Flag_of_Tajikistan.svg.png"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania, the United Republic of",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png"
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/23px-Flag_of_East_Timor.svg.png"
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png"
+  },
+  {
+    "code": "TK",
+    "name": "Tokelau",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_Tokelau.svg/23px-Flag_of_Tokelau.svg.png"
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/23px-Flag_of_Tonga.svg.png"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png"
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png"
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png"
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/23px-Flag_of_Turkmenistan.svg.png"
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/23px-Flag_of_the_Turks_and_Caicos_Islands.svg.png"
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/23px-Flag_of_Tuvalu.svg.png"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png"
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png"
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png"
+  },
+  {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "code": "US",
+    "name": "United States of America (the)",
+    "flag": "//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "code": "",
+    "name": "United States Virgin Islands",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/23px-Flag_of_the_United_States_Virgin_Islands.svg.png"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png"
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png"
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/23px-Flag_of_Vanuatu.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Vatican City",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/16px-Flag_of_the_Vatican_City.svg.png"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/23px-Flag_of_Venezuela_%28state%29.svg.png"
+  },
+  {
+    "code": "VN",
+    "name": "Viet Nam",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png"
+  },
+  {
+    "code": "VG",
+    "name": "Virgin Islands (British)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/23px-Flag_of_the_British_Virgin_Islands.svg.png"
+  },
+  {
+    "code": "VI",
+    "name": "Virgin Islands (U.S.)",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/23px-Flag_of_the_United_States_Virgin_Islands.svg.png"
+  },
+  {
+    "code": "",
+    "name": "Wales",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/23px-Flag_of_Wales.svg.png"
+  },
+  {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Wallis_and_Futuna.svg/23px-Flag_of_Wallis_and_Futuna.svg.png"
+  },
+  {
+    "code": "EH",
+    "name": "Western Sahara",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/23px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/23px-Flag_of_Yemen.svg.png"
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "flag": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/23px-Flag_of_Zimbabwe.svg.png"
+  }
+]
